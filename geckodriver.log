@@ -4148,3 +4148,6 @@ update.go:85: cannot change mount namespace according to change mount (/var/lib/
 1686004896929	geckodriver	INFO	Listening on 127.0.0.1:39223
 1686004897596	geckodriver	INFO	Listening on 127.0.0.1:35097
 1686004898637	geckodriver	INFO	Listening on 127.0.0.1:38445
+1686006173830	geckodriver	INFO	Listening on 127.0.0.1:42379
+1686006174513	geckodriver	INFO	Listening on 127.0.0.1:59057
+1686006175596	geckodriver	INFO	Listening on 127.0.0.1:57239
